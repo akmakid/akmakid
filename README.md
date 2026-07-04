@@ -1,96 +1,107 @@
-# Hi, I'm Akma Akid 👋
+# 👋 Hi, I'm Akma Akid
 
-💻 Software Developer | System Support Engineer  
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250"/>
+</p>
+
+🚀 Software Developer | Backend Support | Azure Certified  
 📍 Petaling Jaya, Malaysia  
 
 ---
 
-## 🚀 About Me
+## ⚡ What I Do
 
-I’m a Software Developer with hands-on experience maintaining and supporting **enterprise financial systems** used by Malaysian government agencies.
-
-My core strength is not just building systems — but **keeping them stable, reliable, and production-ready**.
-
-I work heavily on:
-- Debugging backend issues
-- Fixing data inconsistencies
-- Supporting live production environments
-- Improving system performance
-
-Currently, I’m also contributing to building an **internal ticketing system (Desk365-style)** using modern web technologies.
+- 🔧 Maintain **enterprise financial systems (Gov sector)**
+- 🧠 Debug **production issues & SQL inconsistencies**
+- 🏗️ Build **internal ticketing system (React + Node.js)**
+- ☁️ Azure Certified (AZ-900, AZ-104)
 
 ---
 
-## 🛠️ Tech Stack
+## 🧑‍💻 Programming Languages
 
-**Backend & Programming**
-- Java | C# | PHP | Python | SQL
-
-**Web Development**
-- HTML | CSS | JavaScript  
-- Laravel | Quasar | React (learning & building)
-
-**Database**
-- MySQL | SQL Server
-
-**Cloud & Tools**
-- Microsoft Azure (AZ-900, AZ-104)
-- Git
-
-**Data & Reporting**
-- Power BI (EIS Reporting)
-- Tableau | Alteryx
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,cs,php,python,js" />
+</p>
 
 ---
 
-## 💼 Professional Experience
+## 🌐 Web Development
 
-### Software Developer (System Support & Maintenance)
-**Datascience Sdn Bhd** | Apr 2025 – Present  
-
-- Maintain financial systems for:
-  - Tourism Malaysia  
-  - MAIPs  
-  - MPSPK  
-  - UUM / UUMLEADS  
-- Handle production support tickets and critical system issues
-- Debug backend logic and resolve database inconsistencies using SQL
-- Deliver bug fixes and system enhancements
-- Maintain **Power BI EIS dashboards** for financial reporting
-- Collaborate with dev + support teams for system stability
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,laravel" />
+</p>
 
 ---
 
-## 🧠 Current Work
+## 🗄️ Database & Tools
 
-🔧 Building internal ticketing system (like Desk365):
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,git,azure" />
+</p>
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" />
+</p>
+
+---
+
+## 🔥 Current Project
+
+### 🧾 Internal Ticketing System
+
+<p align="center">
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="400"/>
+</p>
+
 - Frontend: React  
 - Backend: Node.js  
-- Goal: Improve internal IT support workflow & automation  
+- Goal: Replace manual IT support workflow  
+- Features:
+  - Ticket tracking
+  - Agent assignment
+  - Workflow automation (in progress)
+
+---
+
+## 🏢 Experience
+
+💼 Datascience Sdn Bhd  
+
+- Support systems for Tourism Malaysia, MAIPs, MPSPK, UUM  
+- Resolve production issues and backend bugs  
+- Maintain Power BI EIS reports  
 
 ---
 
 ## 📜 Certifications
 
-- Microsoft Certified: Azure Administrator Associate (AZ-104)  
-- Microsoft Certified: Azure Fundamentals (AZ-900)  
+- 🟦 Azure Administrator Associate (AZ-104)  
+- 🟦 Azure Fundamentals (AZ-900)  
 
 ---
 
 ## 🎯 Career Focus
 
-I’m currently aiming to grow into:
-- Backend Developer  
-- Cloud Engineer (Azure)  
-- System Reliability / Production Engineer  
+- Backend Development  
+- Cloud Engineering (Azure)  
+- System Reliability Engineering  
 
 ---
 
-## 📫 Contact Me
+## 📫 Contact
 
 📧 akmaakid2001@gmail.com  
 📱 +60 11-2832 3671  
 
 ---
 
-⭐ *Always improving systems, fixing problems, and building better solutions.*
+## ⚠️ Engineering Mindset
+
+> I don’t just build features.  
+> I fix systems when they break — and make sure they don’t break again.
