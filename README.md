@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Akma Akid
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2U5bWFuemdwaHcwMjJibHdtY3RzdmJlM3ViaWp3czdhMTRpeXEwdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Vcdbi5o470i9FACaZO/giphy.gif" width="250"/>
 </p>
 
 🚀 Software Developer | Backend Support | Azure Certified  
